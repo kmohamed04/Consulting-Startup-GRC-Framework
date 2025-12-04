@@ -6,7 +6,6 @@ The framework aligns with:
 - **NIST Cybersecurity Framework (CSF)**
 - **CIS Controls v8**
 
-This repository is structured for clarity, audit readiness, and professional portfolio demonstration.
 
 ---
 
